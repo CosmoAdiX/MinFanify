@@ -1,1 +1,1 @@
-*Artificially Assisted Fan speed control*
+*Artificially Assisted Fan Speed Control*
